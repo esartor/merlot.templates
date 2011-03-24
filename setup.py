@@ -13,7 +13,7 @@ setup(name='MerlotTemplates',
       classifiers=[
         "Programming Language :: Python",
         ],
-      keywords='',
+      keywords='grok merlot project management',
       author='Emanuel Sartor',
       author_email='emanuel@menttes.com',
       url='http://svn.plone.org/svn/collective/',

@@ -1,4 +1,2 @@
-Introduction
-============
-
-PasteScript templates for Merlot, a web-based project management software
+PasteScript templates for `Merlot <http://code.google.com/p/merlot/>`_, a
+web-based project management software.
