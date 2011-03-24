@@ -1,0 +1,7 @@
+include/
+lib/
+bin/
+MerlotTemplates.egg-info/
+
+syntax: glob
+*.pyc
