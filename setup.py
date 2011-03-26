@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '0.1'
+version = '0.1.1'
 
 setup(name='MerlotTemplates',
       version=version,
@@ -16,7 +16,7 @@ setup(name='MerlotTemplates',
       keywords='grok merlot project management',
       author='Emanuel Sartor',
       author_email='emanuel@menttes.com',
-      url='http://svn.plone.org/svn/collective/',
+      url='http://code.google.com/p/merlot/',
       license='GPL2',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['merlot'],
