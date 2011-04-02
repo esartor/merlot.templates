@@ -1,6 +1,14 @@
 Changelog
 =========
 
+
+0.2 (unreleased)
+----------------
+
+  * Removed buildout parts and extensions that are specific to development from
+    the Merlot buildout template. [emanuel]
+  * Explanatory comments added to the Merlot buildout template. [emanuel]
+
 0.1.1 - 2011-03-26
 ------------------
 
