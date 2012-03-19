@@ -10,11 +10,12 @@ extends =
 parts =
     app
     merlot_server
-    debug_ini
-    deploy_ini
+    paster_debug_ini
+    paster_deploy_ini
     mkdirs
     site_zcml
-    zope_conf
+    zope_conf_deploy
+    zope_conf_debug
     zpasswd
 versions = versions
 develop = 

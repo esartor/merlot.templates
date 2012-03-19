@@ -14,5 +14,5 @@ class MerlotBuildoutTemplate(Template):
     use_cheetah = True
 
     vars = [
-        var('merlot_version', 'Merlot version', default='0.1',),
+        var('merlot_version', 'Merlot version', default='0.2',),
         ]
